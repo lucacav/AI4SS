@@ -18,8 +18,8 @@ The repository is organized as follows:
 
 ## Acknowledgments 
 
-The material used during the course and collected in this repository has been prepared with the help of Angelica Liguori (angelica.liguori-AT-icar.cnr.it) and Marco Zuppelli (marco.zuppelli-AT-ge.imati.cnr.it). Angelica is the owner of the code for watermarking AI models, while Marco prepared the digital media and network traffic examples. Lastly, Massimo Guarascio (massimo.guaraascio-AT-icar.cnr.it) provided many interesting insights on how to embed data within AI models. 
+The material used during the course and collected in this repository has been prepared with the help of Angelica Liguori and Marco Zuppelli. Angelica is the owner of the code for watermarking AI models, while Marco prepared the digital media and network traffic examples. Lastly, Massimo Guarascio provided many interesting insights on how to embed data within AI models. 
 
 ## Contacts
 
-Feel free to contact me at luca.caviglione-AT-cnr.it
+Feel free to contact me at luca.caviglione(AT)cnr.it
