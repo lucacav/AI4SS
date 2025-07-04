@@ -1,6 +1,6 @@
 # A Quick and Crash Course on Watermarking
 
-This is the repository for the course "A Quick and Crash Course on Watermarking" that I delivered at the [2nd Edition of the Summer School on Artificial Intelligence for a Secure Society](https://serics.eu/serics-academy/artificial-intelligence-for-a-secure-society-2nd-edition-of-the-summer-school/) (6-12 July, 2025) in Lecce, Italy. The School is an initiative funded by the [SoBigata](http://www.sobigdata.eu) Research Infrastructure and the [SERICS](https://sobigdata.it) Foundation. 
+This is the repository for the lecture "A Quick and Crash Course on Watermarking" that I delivered at the [2nd Edition of the Summer School on Artificial Intelligence for a Secure Society](https://serics.eu/serics-academy/artificial-intelligence-for-a-secure-society-2nd-edition-of-the-summer-school/) (6-12 July, 2025) in Lecce, Italy. The School is an initiative funded by the [SoBigata](http://www.sobigdata.eu) Research Infrastructure and the [SERICS](https://sobigdata.it) Foundation. 
 
 The previous version of the course, entitled "Watermarking: Defense and Hazards" that I delivered at the [1st Edition of the Summer School on Artificial Intelligence for a Secure Society](https://ai4securesociety.sobigdata.it) (5-10 September, 2024) in Capo Vaticano, Italy, is available as the v.1.0 of this repository. 
 
